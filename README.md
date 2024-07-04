@@ -87,3 +87,7 @@ table
     
 </body>
 </html>  ```
+
+Output
+![image](https://github.com/vishwaraja21/Htmlday1/assets/102411421/7776e596-2de1-4759-a637-78f92406875e)
+
