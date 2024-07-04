@@ -1,5 +1,6 @@
 table
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -86,8 +87,11 @@ table
     </table>
     
 </body>
-</html>  ```
+</html>
+
+ ```
 
 Output
+
 ![image](https://github.com/vishwaraja21/Htmlday1/assets/102411421/7776e596-2de1-4759-a637-78f92406875e)
 
